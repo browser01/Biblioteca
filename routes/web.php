@@ -10,7 +10,7 @@
 |
 */
 Route::get('/', function(){
-	return view('welcome');
+	return view('welcomesfrank');
 });
 
 //Rutas para el Modelo Clientes
